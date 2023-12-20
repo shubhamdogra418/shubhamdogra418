@@ -3,7 +3,12 @@
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Web App Projects
 - 📫 How to reach me-- shubhamdogra418@gmail.com, Socials
-- Technologies- Java, HTML, CSS, JavaScript, ReactJS, MySQL, DSA
+- Technologies- Java, HTML, CSS, JavaScript, ReactJS, MySQL.
+- Skills
+    - Problem Solving Skills (https://leetcode.com/shubhamdogra/) DSA
+    - Communication
+    - Love to Collaborate
+    - Team Building >> Excellent Work Environment 
 
 <!---
 shubhamdogra418/shubhamdogra418 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
